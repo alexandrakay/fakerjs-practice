@@ -1,0 +1,26 @@
+{
+  "name": "fakerjs",
+  "version": "1.0.0",
+  "description": "fakerjs and jsonserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrakay/fakerjs-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrakay/fakerjs-practice/issues"
+  },
+  "homepage": "https://github.com/alexandrakay/fakerjs-practice#readme",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "g": "^2.0.1",
+    "json-server": "^0.16.3",
+    "request": "^2.88.2"
+  }
+}
